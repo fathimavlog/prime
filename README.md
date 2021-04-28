@@ -1,0 +1,2 @@
+# prime
+prime or not
